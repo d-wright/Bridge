@@ -31,6 +31,7 @@
   <file name="INotifyPropertyChanged.js" />
   <file name="Array.js" />
   <file name="linq.js" />
+  <file name="Boolean.js" />
   <target name="Bridge.NET" file="$output\bridge.js" debug="True">
     <include name="Init.js" />
     <include name="Core.js" />
@@ -62,6 +63,7 @@
     <include name="INotifyPropertyChanged.js" />
     <include name="Array.js" />
     <include name="linq.js" />
+    <include name="Boolean.js" />
     <include name="End.js" />
   </target>
 </project>
