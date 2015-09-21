@@ -280,7 +280,7 @@ namespace Bridge.Translator
         private static string GetOutputHeader(bool needGlobalComment, bool needStrictModeInstruction)
         {
             string header = needGlobalComment ? "/* global Bridge */\n\n" : string.Empty;
-            header = header + (needStrictModeInstruction ? "\"use strict\";\n" : string.Empty);
+            header = header + (needStrictModeInstruction ? "\"use strict\";\n\n" : string.Empty);
 
             return header;
         }

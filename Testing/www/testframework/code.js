@@ -1,6 +1,7 @@
 ﻿/* global Bridge */
 
 "use strict";
+
 Bridge.define('Bridge.ClientTest.ArrayTests', {
     typePropertiesAreCorrect: function () {
         var arr = [1, 2, 3];

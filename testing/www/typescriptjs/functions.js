@@ -1,6 +1,7 @@
 ﻿/* global Bridge */
 
 "use strict";
+
 Bridge.define('Functions.DelegateClass', {
     methodVoidDelegate: null,
     methodStringDelegate: null,

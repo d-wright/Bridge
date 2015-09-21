@@ -1,6 +1,7 @@
 ﻿/* global Bridge */
 
 "use strict";
+
 Bridge.define('Test.BridgeIssues.N475B.Bridge475Event', {
     config: {
         properties: {

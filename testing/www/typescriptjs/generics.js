@@ -1,6 +1,7 @@
 ﻿/* global Bridge */
 
 "use strict";
+
 Bridge.define('Generics.GenericClass$1', function (T) { return {
     instance: null,
     constructor: function (instance) {

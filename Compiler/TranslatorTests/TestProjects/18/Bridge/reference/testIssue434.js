@@ -2,6 +2,7 @@
 
 "use strict";
 
+
 (function(){
     TestIssue434.Issue434A.doSomething(2);
 })();

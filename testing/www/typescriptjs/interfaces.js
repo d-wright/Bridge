@@ -1,6 +1,7 @@
 ﻿/* global Bridge */
 
 "use strict";
+
 Bridge.define('Interfaces.Interface1');
 
 Bridge.define('Interfaces.Interface2', {

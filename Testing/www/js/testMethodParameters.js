@@ -1,6 +1,7 @@
 ﻿/* global Bridge */
 
 "use strict";
+
 Bridge.define('ClientTestLibrary.TestMethodParametersClass', {
     statics: {
         methodDefault: function (i) {

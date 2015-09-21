@@ -1,6 +1,7 @@
 ﻿/* global Bridge */
 
 "use strict";
+
 Bridge.define('Test.BridgeIssues.N477.App1', {
     methodA: function (optionalNumber) {
         if (optionalNumber === void 0) { optionalNumber = 41; }

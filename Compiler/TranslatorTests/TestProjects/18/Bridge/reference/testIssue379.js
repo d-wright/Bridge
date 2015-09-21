@@ -1,6 +1,7 @@
 ﻿/* global Bridge */
 
 "use strict";
+
 Bridge.define('TestIssue379.Tests', {
     testDataIgnore: function () {
         var d1 = {  };
